@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React from "react";
 import { BrowserRouter as Router, Switch, Route, Redirect } from "react-router-dom";
 import { Header } from './components/ui/Header';
 import { EstadoView } from './components/estados/EstadoView';
